@@ -12,5 +12,7 @@
 ### 📊 Projects
 I'm just getting started, I'll add my projects here shortly
 
+***
+
 ### 🔗 Connect
 Connect with me on [LinkedIn](https://www.linkedin.com/in/tracy-samphier-6705402b1/)
